@@ -19,12 +19,12 @@ A fast, lightweight, and powerful subdomain scanner with a massive built-in word
 
 1. Clone the repository:
 ```bash
-https://github.com/pentesterhelper/advance-subdomain-scanner.git
+https://github.com/pentesterhelper/enterprise-subdomain-discovery.git
 ```
 
 2. Navigate to the project directory:
 ```bash
-cd advance-subdomain-scanner
+cd enterprise-subdomain-discovery
 ```
 
 3. Install required dependencies:
