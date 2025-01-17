@@ -1,4 +1,4 @@
-# Advance Subdomain Scanner 🔍
+# Enterprise Subdomain Discovery 🔍
 
 A fast, lightweight, and powerful subdomain scanner with a massive built-in wordlist of 822,822 potential subdomains. Perfect for security researchers, penetration testers, and system administrators.
 
